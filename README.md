@@ -20,18 +20,18 @@ DS105L – Data for Data Science
     ```
 4. Activate the environment and make sure you have `pip` installed inside that environment:
 
-  ```console
-  # the exact `activate` command will vary depending on your OS
-  conda activate venv-ds-105 
-  ```
+    ```bash
+    # the exact `activate` command will vary depending on your OS
+    conda activate venv-ds-105 
+    ```
 
 💡 Remember to activate this particular `conda` environment whenever you reopen VSCode/the terminal.
 
 10. Install required libraries
 
-  ```console
-  pip install -r requirements.txt
-  ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 Now, whenever you open a Jupyter Notebook, you should see the `venv-ds-105` kernel available. 
 
