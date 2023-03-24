@@ -192,3 +192,5 @@ rsconnect/
 ### CUSTOM ###
 
 data/
+
+.DS_Store
